@@ -36,3 +36,12 @@
 .main {
 	padding-left: 2em;
 }
+
+
+.myimg {
+	width: 50%;
+	/*height: 60vh;*/
+}
+.mysmallimg {
+	width: 300px;
+}
